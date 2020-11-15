@@ -47,9 +47,8 @@
 			<url>https://github.com/todayios-cydia/TSWoodPeckeriOSLoader</url>
 		</link>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>woodpecker-ios</name>
+			<url>https://github.com/appwoodpecker/woodpecker-ios</url>
 		</link>
 	</links>
 </package>

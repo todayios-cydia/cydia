@@ -1,0 +1,49 @@
+<package>
+	<id>com.todayios-cydia.tsrevealloader</id>
+	<name>TSRevealLoader</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> TSRevealLoader 插件,可用于三方应用的调试 Firmware should be greater than 12.0</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		 当前 Reveal 动态库版本是 v24(12917) <br/>
+		 应用使用可参照地址 https://revealapp.com/ <br/>
+		 插件项目请参考 https://github.com/todayios-cydia/TSRevealLoader <br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>	
+		<screenshot>
+			<description>TSRevealLoader 在设置中的位置</description>
+			<image>settings-01.png</image>
+		</screenshot>	
+		<screenshot>
+			<description>TSRevealLoader 配置哪个应用可以生效</description>
+			<image>settings-02.png</image>
+		</screenshot>
+		<screenshot>
+			<description>TSRevealLoader启动后效果</description>
+			<image>img1.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>RevealServer 动态库版本 v24(12917)</change>
+	</changelog>
+	<links>
+		<link>
+			<name>TSRevealLoader</name>
+			<url>https://github.com/todayios-cydia/TSRevealLoader</url>
+		</link>
+		<link>
+			<name>Reveal</name>
+			<url>https://revealapp.com/</url>
+		</link>
+	</links>
+</package>
