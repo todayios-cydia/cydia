@@ -5,7 +5,7 @@ A Cydia repository  `https://todayios-cydia.github.io/cydia/`.
 
 #### 1. Adding a simple depiction page
 
-Go to the depictions folder and duplicate the folder `com.todayios.woodpecker`.
+Go to the depictions folder and duplicate the folder `com.todayios-cydia.woodpecker`.
 Rename the duplicate with the same name as your package name.
 There are 2 files inside the folder - `info.xml` and `changelog.xml`.
 Update the 2 files with information regading your package.
@@ -14,7 +14,7 @@ The tags are pretty much self-explanatory.
 `info.xml`.
 ```xml
 <package>
-    <id>com.todayios.woodpecker</id>
+    <id>com.todayios-cydia.woodpecker</id>
     <name>WoodPecker</name>
     <version>1.2.9/version>
     <compatibility>
@@ -56,7 +56,7 @@ For the depictions to appear on Cydia, you will need to add the depictions url a
 The control file should look like this:
 
 ```text
-Package: com.todayios.woodpecker
+Package: com.todayios-cydia.woodpecker
 Name: WoodPecker
 Section: Tweaks
 Depends: firmware (>12.0)
@@ -67,7 +67,7 @@ Depiction: https://todayios-cydia.github.io/cydia/depictions/?p=[idhere]
 Replace `[idhere]` with your actual package name.
 
 ```text
-Depiction: https://todayios-cydia.github.io/cydia/depictions/?p=com.todayios.woodpecker
+Depiction: https://todayios-cydia.github.io/cydia/depictions/?p=com.todayios-cydia.woodpecker
 ```
 
 #### 3. Rebuilding the `Packages` file

@@ -1,6 +1,6 @@
 <package>
-	<id>com.todayios.woodpecker</id>
-	<name>Full Package</name>
+	<id>com.todayios-cydia.woodpecker</id>
+	<name>TSWoodPeckeriOSLoader</name>
 	<version>1.2.9</version>
 	<compatibility>
 		<firmware>
@@ -10,12 +10,13 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription> woodpecker 插件,可用于三方应用的调试 Firmware should be greater than 12.0</shortDescription>
+	<shortDescription> WoodPeckeriOS 插件,可用于三方应用的调试 Firmware should be greater than 12.0</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
 		 当前 woodpecker 版本是 1.2.9<br/> 
 		注意 使用  woodpecker 在 iOS 14 以上, 真机使用需要项目开始本地网络权限 <br/>
-		具体可参照地址 http://www.woodpeck.cn/cnusage.html
+		源项目使用可参照地址 http://www.woodpeck.cn/cnusage.html
+		插件项目请参考 https://github.com/todayios-cydia/TSWoodPeckeriOSLoader
 		]]>
 		</description>
 	</descriptionlist>
@@ -41,6 +42,10 @@
 		<change>woodpecker 版本 1.2.9</change>
 	</changelog>
 	<links>
+		<link>
+			<name>TSWoodPeckeriOSLoader</name>
+			<url>https://github.com/todayios-cydia/TSWoodPeckeriOSLoader</url>
+		</link>
 		<link>
 			<name>/r/jailbreak</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
