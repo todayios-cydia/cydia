@@ -12,7 +12,7 @@
 		<package>com.opa334.altlist</package>
 		<package>firmware</package>
 	</dependencies>
-	<shortDescription> WoodPeckeriOS 插件,可用于三方应用的调试 Firmware should be greater than 14.0</shortDescription>
+	<shortDescription> WoodPeckeriOS loader tweak, debugging third app; Firmware should be greater than 14.0</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
 		 当前 woodpecker 版本是 1.3.3<br/> 
@@ -26,19 +26,19 @@
 		<screenshot>
 			<description>woodpecker 在设置中的位置</description>
 			<image>settings-01.png</image>
+		</screenshot>
+		<screenshot>
+			<description>woodpecker 配置界面</description>
+			<image>settings-02.png</image>
 		</screenshot>	
 		<screenshot>
 			<description>woodpecker 配置哪个应用可以生效</description>
-			<image>settings-02.png</image>
+			<image>settings-03.png</image>
 		</screenshot>
 		<screenshot>
 			<description>woodpecker 连接 Mac 客户端后的画面</description>
 			<image>screenshot.jpg</image>
-		</screenshot>	
-		<screenshot>
-			<description>woodpecker 如果连接不上的话, 双指长按会弹出选择真机的弹窗</description>
-			<image>settings-03.png</image>
-		</screenshot>		
+		</screenshot>			
 	</screenshots>
 	<changelog>
 		<change>woodpecker 版本 1.3.3</change>

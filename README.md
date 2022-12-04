@@ -16,11 +16,10 @@ The tags are pretty much self-explanatory.
 <package>
     <id>com.todayios-cydia.woodpecker</id>
     <name>WoodPecker</name>
-    <version>1.2.9/version>
+    <version>1.3.3/version>
     <compatibility>
         <firmware>
-            <miniOS>9.0</miniOS>
-            <maxiOS>14.0</maxiOS>
+            <miniOS>14.0</miniOS>
             <otherVersions>unsupported</otherVersions>
             <!--
             for otherVersions, you can put either unsupported or unconfirmed
@@ -43,7 +42,7 @@ The tags are pretty much self-explanatory.
 ```xml
 <changelog>
     <changes>
-        <version>1.2.9</version>
+        <version>1.3.3</version>
         <change>Initial release</change>
     </changes>
 </changelog>
