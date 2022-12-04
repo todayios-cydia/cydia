@@ -1,6 +1,6 @@
 <package>
-	<id>com.todayios-cydia.lookinloader</id>
-	<name>LookinLoader</name>
+	<id>com.todayios-cydia.flexloader</id>
+	<name>FLEXLoader</name>
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
@@ -12,43 +12,43 @@
 		<package>com.opa334.altlist</package>
 		<package>firmware</package>
 	</dependencies>
-	<shortDescription> LookinLoader 插件,可用于三方应用的调试 Firmware should be greater than 14.0</shortDescription>
+	<shortDescription> FLEXLoader 插件,可用于三方应用的调试 Firmware should be greater than 14.0</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		 当前 LookinLoader 版本是 1.0.0<br/>
-		插件项目请参考 https://github.com/todayios-cydia/LookinLoader
+		源项目使用可参照地址 https://github.com/FLEXTool/FLEX <br/>
+		插件项目请参考 https://github.com/todayios-cydia/FLEXLoader <br/>
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>	
 		<screenshot>
-			<description>Lookin 效果图</description>
-			<image>preview.jpg</image>
-		</screenshot>
-        <screenshot>
-            <description>Lookin 在设置中的位置</description>
-            <image>settings-01.png</image>
-        </screenshot>
+			<description>FLEXLoader 在设置中的位置</description>
+			<image>img1.png</image>
+		</screenshot>	
 		<screenshot>
-            <description>Lookin 的设置页/description>
-            <image>settings-02.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Lookin 配置哪个应用可以生效</description>
-            <image>settings-03.png</image>
-        </screenshot>
+			<description>FLEXLoader 配置界面</description>
+			<image>img2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>FLEXLoader 的配置开关</description>
+			<image>img3.png</image>
+		</screenshot>
+		<screenshot>
+			<description>FLEXLoader启动后效果</description>
+			<image>img4.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>LookinLoader 版本 1.0.0</change>
+		<change>FLEX动态库版本  1.0.0</change>
 	</changelog>
 	<links>
 		<link>
-			<name>LookinLoader</name>
-			<url>https://github.com/todayios-cydia/LookinLoader</url>
+			<name>FLEXLoader</name>
+			<url>https://github.com/todayios-cydia/FLEXLoader</url>
 		</link>
 		<link>
-			<name>lookin</name>
-			<url>https://lookin.work/</url>
+			<name>FLEX</name>
+			<url>https://github.com/FLEXTool/FLEX</url>
 		</link>
 	</links>
 </package>
