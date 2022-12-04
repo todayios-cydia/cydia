@@ -4,13 +4,15 @@
 	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.0</miniOS>
+			<miniOS>14.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>com.opa334.altlist</package>
+		<package>firmware</package>
 	</dependencies>
-	<shortDescription> TSRevealLoader 插件,可用于三方应用的调试 Firmware should be greater than 12.0</shortDescription>
+	<shortDescription> TSRevealLoader 插件,可用于三方应用的调试 Firmware should be greater than 14.0</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
 		 当前 Reveal 动态库版本是 v24(12917) <br/>
@@ -26,7 +28,7 @@
 		</screenshot>	
 		<screenshot>
 			<description>TSRevealLoader 配置哪个应用可以生效</description>
-			<image>settings-02.png</image>
+			<image>settings-03.png</image>
 		</screenshot>
 		<screenshot>
 			<description>TSRevealLoader启动后效果</description>
