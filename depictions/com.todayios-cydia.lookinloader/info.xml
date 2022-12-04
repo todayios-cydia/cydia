@@ -1,6 +1,6 @@
 <package>
-	<id>com.todayios-cydia.flexloader</id>
-	<name>FLEXLoader</name>
+	<id>com.todayios-cydia.lookinloader</id>
+	<name>LookinLoader</name>
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
@@ -12,43 +12,43 @@
 		<package>com.opa334.altlist</package>
 		<package>firmware</package>
 	</dependencies>
-	<shortDescription> FLEXLoader 插件,可用于三方应用的调试 Firmware should be greater than 14.0</shortDescription>
+	<shortDescription> LookinLoader 插件,可用于三方应用的调试 Firmware should be greater than 14.0</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		源项目使用可参照地址 https://github.com/FLEXTool/FLEX <br/>
-		插件项目请参考 https://github.com/todayios-cydia/FLEXLoader <br/>
+		源项目使用可参照地址 https://lookin.work <br/>
+		插件项目请参考 https://github.com/todayios-cydia/LookinLoader <br/>
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>	
 		<screenshot>
-			<description>FLEXLoader 在设置中的位置</description>
-			<image>img1.png</image>
+			<description>LookinLoader 在设置中的位置</description>
+			<image>settings-01.png</image>
 		</screenshot>	
 		<screenshot>
-			<description>FLEXLoader 配置界面</description>
-			<image>img2.png</image>
+			<description>LookinLoader 配置界面</description>
+			<image>settings-02.png</image>
 		</screenshot>
 		<screenshot>
-			<description>FLEXLoader 的配置开关</description>
-			<image>img3.png</image>
+			<description>LookinLoader 的配置开关</description>
+			<image>settings-03.png</image>
 		</screenshot>
 		<screenshot>
-			<description>FLEXLoader启动后效果</description>
-			<image>img4.jpg</image>
+			<description>LookinLoader启动后效果</description>
+			<image>preview.jpg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>FLEX动态库版本  1.0.0</change>
+		<change>LookinLoader 版本  1.0.0</change>
 	</changelog>
 	<links>
 		<link>
-			<name>FLEXLoader</name>
-			<url>https://github.com/todayios-cydia/FLEXLoader</url>
+			<name>LookinLoader</name>
+			<url>https://github.com/todayios-cydia/LookinLoader</url>
 		</link>
 		<link>
 			<name>FLEX</name>
-			<url>https://github.com/FLEXTool/FLEX</url>
+			<url>https://lookin.work</url>
 		</link>
 	</links>
 </package>
