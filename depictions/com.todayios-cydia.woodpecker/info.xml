@@ -16,9 +16,9 @@
 	<descriptionlist>
 		<description><![CDATA[
 		 当前 woodpecker 版本是 1.3.3<br/> 
-		注意 使用  woodpecker 在 iOS 14 以上, 真机使用需要项目开始本地网络权限 <br/>
-		源项目使用可参照地址 http://www.woodpeck.cn/cnusage.html
-		插件项目请参考 https://github.com/todayios-cydia/TSWoodPeckeriOSLoader
+		注意 使用  woodpecker 在 iOS 14 以上, 真机使用需要项目开启本地网络权限,即 Info.plist 中 Bonjour services 添加配置 <br/>
+		详情查看, woodpecker 项目的使用指南 http://www.woodpeck.cn/cnusage.html
+		本插件项目请查看 https://github.com/todayios-cydia/TSWoodPeckeriOSLoader
 		]]>
 		</description>
 	</descriptionlist>
